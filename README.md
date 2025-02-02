@@ -1,2 +1,2 @@
 # OseyenbhinPublicRemoteRepo1
-Local change made by [Oseyenbhin] and Remote change made by [Oseyenbhin] 
+Local change made by [oseyenbhbin] and Remote change made by [oseyenbhin]
